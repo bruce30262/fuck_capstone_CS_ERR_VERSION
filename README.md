@@ -12,7 +12,10 @@ After googling the solution for 5 hours, I found that the only way to end this p
 * Install python binding (both python2 & python3)  
 * Check the core & binding version  
 
-Usage: `sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/bruce30262/fuck_capstone_CS_ERR_VERSION/master/fuck_capstone_cserror.sh)"`  
+Usage:
+```shell
+sudo sh -c "$(curl -fsSL https://raw.githubusercontent.com/bruce30262/fuck_capstone_CS_ERR_VERSION/master/fuck_capstone_cserror.sh)"
+```
 
 Dedicate to all pals who also suffered from this error.  
   
