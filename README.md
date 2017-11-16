@@ -22,3 +22,5 @@ Dedicate to all pals who also suffered from this error.
   
 BTW don't get me wrong, capstone is a great project, it's just that this error happens so many times and it's so annoying that I decide to write a script to get rid of it once and for all (=_=)凸
 
+## 2017/11/16 update  
+The script will also fix the `ImportError: ERROR: fail to load the dynamic library.` error, too. 
